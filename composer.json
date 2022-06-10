@@ -4,6 +4,7 @@
     "homepage": "https://github.com/jackhhy/techkoga",
     "license": "MIT",
     "minimum-stability": "dev",
+    "prefer-stable": true,
     "autoload": {
         "psr-4": {
             "techkoga\\Tools\\": "src/"
