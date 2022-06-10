@@ -1,0 +1,21 @@
+{
+    "name": "techkoga/tool",
+    "description": "Google Verification,tools",
+    "type": "library",
+    "license": "MIT",
+    "version": "v1.0",
+    "autoload": {
+        "psr-4": {
+            "techkoga\\Tools\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "techkoga",
+            "email": "techkoga1804@gmail.com"
+        }
+    ],
+    "require": {
+        "ext-curl": "*"
+    }
+}
