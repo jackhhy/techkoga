@@ -1,10 +1,9 @@
 {
     "name": "techkoga/tool",
     "description": "Google Verification,tools",
-    "type": "library",
     "homepage": "https://github.com/jackhhy/techkoga",
     "license": "MIT",
-    "version": "v1.0",
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "techkoga\\Tools\\": "src/"
