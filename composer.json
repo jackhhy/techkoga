@@ -4,6 +4,7 @@
     "homepage": "https://github.com/jackhhy/techkoga",
     "license": "MIT",
     "minimum-stability": "dev",
+     "version": "v1.0",
     "prefer-stable": true,
     "autoload": {
         "psr-4": {
